@@ -26,6 +26,27 @@ Use link based stack as an undo feature in the delete module. When data is delet
 ## Queue
 Use link based queue for breadth first traversal in the Binary Search Tree. Breadth First order is used to update input file at end of the program
 
+## Modules
+* Add Account  - Input info to create an account and insert into BST and Hash Table
+* Delete Account - Use Account number to delete an account, can undo deletes until you input save option
+* Display One Account - enter account number to display information of one account
+* list Hash Table - list data in sequence it exists in hash table
+* List Sorted Sequence - Uses Inorder traversal to sort by Account Name
+* Print Indented Tree - prints bst in indented tree format
+* Efficiency - outputs load factor, collisions, and operations that take place in BST
+* ATM - simulates and ATM requires authentication
+* quit
+
+# Database Format
+account name
+account creation date
+account number
+money in savings account
+money in checking account
+username
+password
+*User ATM
+
 ## Authors
 
 * **Yusuf Quddus**
