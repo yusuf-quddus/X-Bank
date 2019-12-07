@@ -37,7 +37,7 @@ Use link based queue for breadth first traversal in the Binary Search Tree. Brea
 * ATM - simulates and ATM requires authentication
 * quit
 
-# Database Format
+## Database Format
 account name<br />
 account creation date<br />
 account number<br />
