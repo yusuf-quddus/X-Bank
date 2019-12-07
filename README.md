@@ -10,7 +10,7 @@ data.
 Read data from database file into a BST using the name of account as the key. Used for sorting structures
 
 ## Hash Table
-Used for searching and fighting data
+Used for searching and locating data
 
 #### Hash Function
 
