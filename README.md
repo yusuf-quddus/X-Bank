@@ -38,14 +38,13 @@ Use link based queue for breadth first traversal in the Binary Search Tree. Brea
 * quit
 
 # Database Format
-account name
-account creation date
-account number
-money in savings account
-money in checking account
-username
-password
-*User ATM
+account name<br />
+account creation date<br />
+account number<br />
+money in savings account<br />
+money in checking account<br />
+username<br />
+password<br />
 
 ## Authors
 
