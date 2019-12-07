@@ -18,7 +18,7 @@ Hash Function uses bank account number. Hash key by adding the digits repeatedly
 
 #### Collision Handling
 
-For collision resolution, use quadratic probing in the same direction always, revert to linear probing. Data Structure capable of link based collision handling
+For collision resolution, use quadratic probing in the same direction always, revert to linear probing when quadratic incrementation becomes too large. Data Structure capable of link based collision handling
 
 ## Stack
 Use link based stack as an undo feature in the delete module. When data is deleted, the data is pushed on the stack. If the user wants to undo a delete, the data will be popped from the stack and inserted back into data structures. User can save changes and the stack will be emptied
