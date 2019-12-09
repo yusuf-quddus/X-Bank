@@ -1,8 +1,5 @@
 
 // Yusuf Quddus
-// Nathan Wong
-// Amber Low
-// Renan Hiramatsu
 
 /*
 Pseudocode:
