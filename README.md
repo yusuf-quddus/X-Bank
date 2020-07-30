@@ -7,7 +7,7 @@ data.
 
 ## Binary Search Tree
 
-Read data from database file into a BST using the name of account as the key. Used for sorting structures
+Read data from database file into a BST using the name of account as the key. Used for sorting structures.
 
 ## Hash Table
 Used for searching and locating data
